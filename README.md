@@ -1,14 +1,15 @@
 # Denton Bonsai Lady Tracker
 
-A crowdsourced geospatial reporting system that allows residents of Denton, Texas to report the last known location of a mobile bonsai tree seller.
-
-The application uses ArcGIS Online tools to collect, moderate, and visualize sightings on an interactive map.
-
 ![GIS](https://img.shields.io/badge/GIS-ArcGIS%20Online-blue)
 ![Data Collection](https://img.shields.io/badge/Data-Crowdsourced-green)
 ![Mapping](https://img.shields.io/badge/Web%20Map-Interactive-orange)
 ![Status](https://img.shields.io/badge/status-prototype-yellow)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
+A crowdsourced geospatial reporting system that allows residents of Denton, Texas to report the last known location of a mobile bonsai tree seller.
+
+The application uses ArcGIS Online tools to collect, moderate, and visualize sightings on an interactive map.
+
 
 ## Purpose
 
