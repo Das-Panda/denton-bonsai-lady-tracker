@@ -41,6 +41,7 @@ The application uses an ArcGIS Survey123 form to collect sightings from the comm
 Users submit the date, location, optional photo, and confidence level for each report.
 
 ![Survey123 Form](docs/survey123_form.png)
+*Figure 1: Survey123 form used to collect crowdsourced bonsai sightings.*
 
 ## Workflow
 
