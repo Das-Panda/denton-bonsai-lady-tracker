@@ -34,6 +34,14 @@ See architecture diagram below.
 
 ![Architecture](docs/architecture_diagram.png)
 
+## Survey123 Reporting Form
+
+The application uses an ArcGIS Survey123 form to collect sightings from the community.
+
+Users submit the date, location, optional photo, and confidence level for each report.
+
+![Survey123 Form](docs/survey123_form.png)
+
 ## Workflow
 
 1. User submits a sighting using Survey123
